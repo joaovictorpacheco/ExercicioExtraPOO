@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.exe
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.deps.json
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.runtimeconfig.json
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.runtimeconfig.dev.json
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.dll
+C:\Users\dev\Desktop\ExercícioExtra\bin\Debug\netcoreapp3.1\ExercícioExtra.pdb
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.AssemblyInfo.cs
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.dll
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.pdb
+C:\Users\dev\Desktop\ExercícioExtra\obj\Debug\netcoreapp3.1\ExercícioExtra.genruntimeconfig.cache
